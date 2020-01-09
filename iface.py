@@ -6,7 +6,7 @@ from ansible.module_utils.basic import AnsibleModule
 ANSIBLE_METADATA = {
   'metadata_version': '1',
   'status': ['preview'],
-  'supported_by': 'epava1516'
+  'supported_by': 'Eduardo David Paredes Vara'
 }
 
 DOCUMENTATION = '''
